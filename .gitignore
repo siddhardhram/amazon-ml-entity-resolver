@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and checkpoint files
+*.tmp
+*.tmp.*
+.ipynb_checkpoints/
+
+# Intermediate run directories (if created locally)
+work/
+prep/
+index/
+trainfe/
+testpred/
+model/
